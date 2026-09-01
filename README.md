@@ -1,1 +1,0 @@
-# object_oriente_programming
